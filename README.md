@@ -14,5 +14,3 @@
 ## Chrome DevTools Keyboard Shortcuts
 
 https://developers.google.com/web/tools/chrome-devtools/shortcuts?utm_source=devtools
-
-## Tabs
